@@ -1,0 +1,16 @@
+{
+    position: relative;
+    height:600px;
+    /* background-image:linear-gradient(green,white); */
+
+    left:0px;
+
+}
+.heder
+ {
+    height:140px;
+    width:100%; 
+    /* background-image:linear-gradient(rgb(224, 162, 26),white) ;*/
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKe-ohha2fQ9mQgzXj3ljbMFJgdAxhDnpvow&usqp=CAU");
+    background-size: 300px;
+    background-repeat: no-repeat;
